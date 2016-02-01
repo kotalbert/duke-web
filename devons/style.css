@@ -1,0 +1,42 @@
+.frame {
+    width : 800px;
+    margin : auto;
+    border : 2px solid #73AD21;
+    padding : 10px;
+    font-family : Arial;
+}
+
+
+h1, h2, h3 {
+    color : #73AD21;
+}
+
+a {
+    text-decoration : none;
+    color :  #73AD21;
+}
+
+a:hover {
+    text-decoration : underline;
+}
+
+table {
+    border : 1px solid  #73AD21;
+	border-collapse: collapse;
+}
+
+th {
+    background-color : #73AD21;
+    color : #FFFFFF;
+
+}
+
+th, td {
+    border : 1px solid  #73AD21;
+    vertical-align: baseline;
+     padding : 5px;
+}
+
+.pbox img {
+    width : 250px;
+}
